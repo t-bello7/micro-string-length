@@ -5,5 +5,9 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^28.1.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
   }
 }
