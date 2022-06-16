@@ -44,3 +44,7 @@ Congratulations! You have just used the TDD approach by starting the development
 *Use these questions to check what you learned during this lesson.*
 - What is the next test you can write for *capitalize(string)*?
 - What can go wrong with this function? For example, what happens if someone provides an integer as an input for this function?
+
+
+### Resource
+- https://dev.to/dstrekelj/how-to-test-classes-with-jest-jif
